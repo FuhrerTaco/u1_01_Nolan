@@ -1,0 +1,15 @@
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\bin\Debug\u1_01_Nolan.exe.config
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\bin\Debug\u1_01_Nolan.exe
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\bin\Debug\u1_01_Nolan.pdb
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan.csprojResolveAssemblyReference.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\MainWindow.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\App.g.cs
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan_MarkupCompile.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan_MarkupCompile.lref
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\MainWindow.baml
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan.g.resources
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan.Properties.Resources.resources
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan.csproj.GenerateResource.Cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan.csproj.CoreCompileInputs.cache
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan.exe
+\\HHSDC\178712$\My Documents\ICS4U\Programs\u1_01_Nolan\u1_01_Nolan\obj\Debug\u1_01_Nolan.pdb
